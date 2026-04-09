@@ -14,6 +14,6 @@ public class App {
 
         App obj = new App();
 
-        System.out.println(obj.checkEvenOdd(4));
+        System.out.println(obj.checkEvenOdd(7));
     }
 }
